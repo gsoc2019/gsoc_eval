@@ -14,7 +14,7 @@ utils.make_dirs(features_dir,'a')
 utils.make_dirs(images_dir,'a')
 
 
-# fetch.fromURL(URL, data_dir)
+fetch.fromURL(URL, data_dir)
 
 
 
@@ -33,7 +33,7 @@ for root, dirs, files in os.walk(data_dir):
         tz_UTC = timestamp.convert_to_tz(ns,zone='UTC')
         tz_CERN = timestamp.convert_to_tz(ns,zone='CET')
 
-        print('datetime of hd5 \n UTC: %s \n CERN: %s', str(tz_UTC), str(tz_CERN))
+        print('\ndatetime of hd5 \n  UTC: %s \n  CERN: %s'% (str(tz_UTC), str(tz_CERN)))
 
         data.export_features(features_dir)
         data.export_image(images_dir, path, heightpath, widthpath, filter = scipy_filter)

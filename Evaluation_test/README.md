@@ -24,6 +24,8 @@ This is the evaluation test for Python Analysis Package for AWAKE.
     '''
 
 
+!['terminal screenshot']('Capture.PNG')
+
 
 ## NOTE: 
 
