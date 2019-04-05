@@ -14,13 +14,11 @@ This is the evaluation test for Python Analysis Package for AWAKE.
     ```
     conda create -n p3 python=3
     activate p3
-    
     ```
 
     ```
     pip install -r requirements.txt
     python main.py
-
     ```
 
 
