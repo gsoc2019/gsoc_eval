@@ -6,8 +6,8 @@ This is the evaluation test for Python Analysis Package for AWAKE.
 
 ## Evaluation Test 
 
-- images: export dir for required images
-- features: export dir for all dataset's meta info in csv formats
+- images: export dir for required image(s)
+- features: export dir for all dataset's meta-info in *.csv format
 - data: remote hdf5 file is fetched into this directory
 
 
