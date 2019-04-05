@@ -1,0 +1,7 @@
+matplotlib
+scipy
+pytz
+numpy
+h5py
+requests
+tqdm
