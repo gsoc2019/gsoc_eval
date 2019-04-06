@@ -39,6 +39,6 @@ Your project proposal should address two topics:
 
 - Once the database has been created, you can contribute to the development of analysis tools for the AWAKE data. This can include image analysis and data visualization tools. There is also an opportunity to use machine learning algorithms to search for correlations in the data, but that is not a requirement for the project.
 
-> Thanking you GSOC for opportunity,\
-cheers
+> Thanking you Dr. Gessner & GSOC for opportunity,\
+Cheers
 
