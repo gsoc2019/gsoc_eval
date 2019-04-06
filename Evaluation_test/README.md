@@ -1,7 +1,7 @@
 # Python Analysis Package for AWAKE
 ## Evaluation test for GSOC Project
 
-Here's the evaluation test for Python Analysis Package for AWAKE. 
+Hi, here's the evaluation test for Python Analysis Package for AWAKE. 
 > I studied & have been a research-based fan of modern physics from past 5 years from now. CERN is famous for its collider-oriented experiments with an emphasis on the “big” questions of particle physics. And, to get to contribute in AWAKE EXPERIMENT (proton-driven plasma accelerations) would be an unstoppable trigger for me to accomplish more robust scientific applications and quality code-base.
 
 
