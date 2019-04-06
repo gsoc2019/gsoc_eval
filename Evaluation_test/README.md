@@ -1,9 +1,7 @@
 # Python Analysis Package for AWAKE
-
-
 ## Evaluation test for GSOC Project
 
-This is the evaluation test for Python Analysis Package for AWAKE. 
+Here's the evaluation test for Python Analysis Package for AWAKE. 
 > I studied & have been a research-based fan of modern physics from past 5 years from now. CERN is famous for its collider-oriented experiments with an emphasis on the “big” questions of particle physics. And, to get to contribute in AWAKE EXPERIMENT (proton-driven plasma accelerations) would be an unstoppable trigger for me to accomplish more robust scientific applications and quality code-base.
 
 ## Evaluation Test 
@@ -32,6 +30,10 @@ This is the evaluation test for Python Analysis Package for AWAKE.
 Your project proposal should address two topics:
 
 - AWAKE has tens of thousands of hdf files containing event data from the experiment. These files are "uneven" in that they do not all contain the same data. Propose a technique for creating a uniform, easily searchable database for AWAKE and writing an API that will allow AWAKE scientists to quickly search for and extract relevant data.
+> 
+Though, CERN is using Cassandra for its most operations. But looking at upcoming requiments, i suggest that Hadoop-HDFS would be a much more viable database technology using distributed processing & parallel-HDF5 
+https://www.educba.com/hadoop-vs-cassandra/
+https://www.hdfgroup.org/solutions/enterprise-support/hadoop-hdfs-hdf5-connector/
 
 - Once the database has been created, you can contribute to the development of analysis tools for the AWAKE data. This can include image analysis and data visualization tools. There is also an opportunity to use machine learning algorithms to search for correlations in the data, but that is not a requirement for the project.
 
