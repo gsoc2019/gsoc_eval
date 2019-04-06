@@ -34,8 +34,8 @@ Your project proposal should address two topics:
 
 > Though, CERN is using Cassandra for its most operations. But looking at upcoming requirements, i suggest that Hadoop-HDFS can prove to be a much more viable database technology using distributed processing & parallel-HDF5.
 > https://www.educba.com/hadoop-vs-cassandra/ \
-> https://www.hdfgroup.org/solutions/enterprise-support/hadoop-hdfs-hdf5-connector/
-
+> https://www.hdfgroup.org/solutions/enterprise-support/hadoop-hdfs-hdf5-connector/\
+\
 - Once the database has been created, you can contribute to the development of analysis tools for the AWAKE data. This can include image analysis and data visualization tools. There is also an opportunity to use machine learning algorithms to search for correlations in the data, but that is not a requirement for the project.
 
 > Thanking you GSOC for opportunity,\
