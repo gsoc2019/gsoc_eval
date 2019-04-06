@@ -31,7 +31,7 @@ Your project proposal should address two topics:
 
 - AWAKE has tens of thousands of hdf files containing event data from the experiment. These files are "uneven" in that they do not all contain the same data. Propose a technique for creating a uniform, easily searchable database for AWAKE and writing an API that will allow AWAKE scientists to quickly search for and extract relevant data.
 
-> Though, CERN is using Cassandra for its most operations. But looking at upcoming requiments, i suggest that Hadoop-HDFS can prove to be a much more viable database technology using distributed processing & parallel-HDF5.
+> Though, CERN is using Cassandra for its most operations. But looking at upcoming requirements, i suggest that Hadoop-HDFS can prove to be a much more viable database technology using distributed processing & parallel-HDF5.
 > https://www.educba.com/hadoop-vs-cassandra/ \
 > https://www.hdfgroup.org/solutions/enterprise-support/hadoop-hdfs-hdf5-connector/
 
